@@ -1,63 +1,49 @@
-<h1 align="center">Hi 👋! My name is Thirul Mindiya.<br><br>I'm an Applied Data Science Final Year Undergraduate from SriLanka.</h1>
+# Hi there, I'm Thirul Mindiya! 👋
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirul-mindiya-798045254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thirulmindiya@gmail.com)
 
-<br clear="both">
+🎓 Final Year Undergraduate - BSc Applied Data Science Communication  
+🏛️ General Sir John Kotelawala Defence University  
+💻 Aspiring Data Scientist | Analytics Enthusiast
 
-<div align="center">
-  <img height="150" src="https://science.cmb.ac.lk/wp-content/uploads/2020/12/Center-for-Data-Science-New-Banner.jpg"  />
-</div>
+---
 
-###
+## 🛠️ Technical Arsenal
 
-<br clear="both">
+### Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="python logo"  />
-  <img width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
-  <img width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-</div>
+---
 
-###
-
-<br clear="both">
+## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/thirul-mindiya-798045254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/GVt7QYQW" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="thirulmindiya@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/thirul_mindiya?igsh=MXJhNXJ1dm8xeXlpcA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/share/1DfQR9bRcd/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
+  
+[![Thirul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)](https://github.com/YourGitHubUsername/github-readme-stats)
+
 </div>
 
-###
+---
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31jrtey2tgnuzzq2lz7uaxqoidc4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jrtey2tgnuzzq2lz7uaxqoidc4&count=2&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+## 🎮 Data Science in Action
 
-###
+![Data Science](https://media.licdn.com/dms/image/v2/D4D12AQFOan67rg3q8Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1693761336583?e=2147483647&v=beta&t=xC6-mOhY1QCEddyWgWdcnZ_BiHz5IaSOSVU6Op3PIQ0) <!-- Replace with your own gif -->
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark" alt="Layout with last medium posts"  />
-</div>
 
-###
+---
+
+## 📬 Let's Connect!
+
+- 🔗 [Portfolio Website](https://yourportfolio.com)
+- 📧 thirulmindiya@email.com
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/thirul-mindiya-798045254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+⭐ From [Thirul Mindiya](https://github.com/TM-CEO/TM-CEO)
